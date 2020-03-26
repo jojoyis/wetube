@@ -1,0 +1,11 @@
+{
+  "name": "wetude",
+  "version": "1.0.0",
+  "description": "clone coding",
+  "main": "index.js",
+  "author": "jaehu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
